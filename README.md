@@ -13,3 +13,8 @@ The Heart Failure Risk Analyzer is an R-based data science project that analyzes
 - Data Visualization: ggplot2
 
 ## 📁 Project Files
+- `data/heart_failure_data.csv`: Source dataset
+- `scripts/01_cleaning_data.R`: Data cleaning
+- `scripts/02_visuals.R`: Reproduction of key visualizations and model
+- `outputs/`: Folder containing generated graphs
+- `heart-failure-risk-analyzer.Rproj`: RStudio project file
